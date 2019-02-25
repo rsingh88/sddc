@@ -7,7 +7,7 @@
 
 
 
-#!/ur/bin/python
+#!/usr/bin/python
 
 
 import requests
